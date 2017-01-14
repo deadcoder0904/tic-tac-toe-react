@@ -1,5 +1,7 @@
 # tic-tac-toe-react
 
+> Tic Tac Toe Game :sparkles: made using React JS :heart_eyes:
+
 # Screenshot
 
 ## Play the Game
